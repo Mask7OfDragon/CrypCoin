@@ -26,13 +26,13 @@ para ejecutar CrypCoin en su servidor requiere
 Instrucción para instalar NorUnity para lanzar su juego
 
 ```
-$ NorUnity > git clone https://github.com/Mask7OfDragon/CrypCoin.git
+$ CrypCoin > git clone https://github.com/Mask7OfDragon/CrypCoin.git
 ```
 
 Tambien puede usar este otro metodo
 
 ```
-$ NorUnity >git@github.com:Mask7OfDragon/CrypCoin.git
+$ CrypCoin >git@github.com:Mask7OfDragon/CrypCoin.git
 ```
 
 Opcionalmente puede descargar el fichero con .zip (opcion de github) o en releases y descargar la ultima version disponible
