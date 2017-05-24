@@ -2,6 +2,9 @@
 
 Un simple ejercicio usando servicios de tercero (Generalmente APIS) para monedas virtuales (Cryptocurrency)
 
+![preview](https://i.imgur.com/9Pi4a0U.jpg)
+
+
 ## Características
 Características actuales/ al futuro para implementar
 
