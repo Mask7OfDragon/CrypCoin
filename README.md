@@ -23,8 +23,7 @@ para ejecutar CrypCoin en su servidor requiere
 - htaccess (Asegurarse que su proveedor lo permite)
 
 ## Instalación
-Instrucción para instalar NorUnity para lanzar su juego
-
+Instrucción para instalar CrypCoin
 ```
 $ CrypCoin > git clone https://github.com/Mask7OfDragon/CrypCoin.git
 ```
